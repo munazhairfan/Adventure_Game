@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  },
+  "name": "adventure_game",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
