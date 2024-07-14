@@ -5,6 +5,7 @@
   "name": "adventure_game",
   "version": "1.0.0",
   "main": "main.js",
+  "bin":"main.js",
   "type": "module",
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
